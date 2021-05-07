@@ -5,7 +5,7 @@
 * Project №1. Исследование надёжности заёмщиков — анализ банковских данных
 > (предобработка данных, Python, Pandas, PyMystem3, лемматизация, SciPy, Matplotlib, Seaborn, SciKitLearn, numpy)
 
-* Project №2. Изучение закономерностей, определяющих успешность игр
+* Project №2. [Изучение закономерностей, определяющих успешность игр](https://github.com/IAMelnik/Y.P/blob/main/Prefabricated%20project%20%23%201.ipynb)
 > (Python, Pandas, numpy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез, Seaborn, SciPy)
 
 * Project №3. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
@@ -20,7 +20,7 @@
 * Project №6. Отток клиентов банка
 > (Pandas, Matplotlib, Seaborn, numpy, sklearn, math, машинное обучение)
 
-* Project №7. Подготовка прототипа модели для металлообрабатывающего предприятия
+* Project №7. [Подготовка прототипа модели для металлообрабатывающего предприятия](https://github.com/IAMelnik/Y.P/blob/main/Prefabricated%20project%20%23%202.ipynb)
 > (Pandas, sklearn, numpy, Seaborn, Matplotlib, math, машинное обучение)
 
 * Project №8. Разработка алгоритма для защиты данных
