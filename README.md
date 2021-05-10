@@ -33,11 +33,11 @@
 * Project №10. [Разработка алгоритма для защиты данных](https://github.com/IAMelnik/Y.P/blob/main/Project%20%2310.ipynb)
 > (Pandas, Seaborn, numpy, sklearn, машинное обучение)
 
+* Project №11. [Предсказание цены автомобиля](https://github.com/IAMelnik/Y.P/blob/main/Project%20%2311.ipynb)
+> (Pandas, sklearn, numpy, LightGBM, машинное обучение, CatBoost)
+
 * Project №4. Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей
 > (SQL, Python, Pandas, Matplotlib, SciPy, проверка статистических гипотез)
-
-* Project №10. Предсказание цены автомобиля
-> (Pandas, sklearn, numpy, LightGBM, машинное обучение, CatBoost)
 
 * Project №11. Прогнозирование заказов такси
 > (Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, машинное обучение)
