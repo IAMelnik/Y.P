@@ -15,7 +15,7 @@
 * Project №4. [Определение выгодного тарифа для телеком компании](https://github.com/IAMelnik/Y.P/blob/main/Project%20%234.ipynb)
 > (Python, Pandas, Matplotlib, numpy, SciPy, описательная статистика, проверка статистических гипотез, math, Seaborn, sklearn, машинное обучение)
 
-* Project №5. [Изучение закономерностей, определяющих успешность игр](https://github.com/IAMelnik/Y.P/blob/main/Prefabricated%20project%20%23%201.ipynb)
+* Project №5. [Изучение закономерностей, определяющих успешность игр](https://github.com/IAMelnik/Y.P/blob/main/Project%20%23%205.ipynb)
 > (Python, Pandas, numpy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез, Seaborn, SciPy)
 
 * Project №6. [Рекомендация тарифов для клиентов телеком компании]()
