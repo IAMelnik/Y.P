@@ -18,14 +18,14 @@
 * Project №5. [Изучение закономерностей, определяющих успешность игр](https://github.com/IAMelnik/Y.P/blob/main/Prefabricated%20project%20%23%201.ipynb)
 > (Python, Pandas, numpy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез, Seaborn, SciPy)
 
+* Project №6. [Рекомендация тарифов для клиентов телеком компании]()
+> (Pandas, Matplotlib, Seaborn, numpy, sklearn, math, машинное обучение)
+
 * Project №4. Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей
 > (SQL, Python, Pandas, Matplotlib, SciPy, проверка статистических гипотез)
 
 * Project №5. Выбор региона для разработки новых нефтяных месторождений
 > (Pandas, sklearn, math, numpy, Seaborn, Matplotlib, SciPy, Bootstrap, машинное обучение)
-
-* Project №6. Отток клиентов банка
-> (Pandas, Matplotlib, Seaborn, numpy, sklearn, math, машинное обучение)
 
 * Project №7. [Подготовка прототипа модели для металлообрабатывающего предприятия](https://github.com/IAMelnik/Y.P/blob/main/Prefabricated%20project%20%23%202.ipynb)
 > (Pandas, sklearn, numpy, Seaborn, Matplotlib, math, машинное обучение)
