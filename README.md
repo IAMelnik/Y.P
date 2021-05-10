@@ -24,14 +24,14 @@
 * Project №7. [Отток клиентов банка](https://github.com/IAMelnik/Y.P/blob/main/Project%20%237.ipynb)
 > (Pandas, Matplotlib, Seaborn, numpy, sklearn, math, машинное обучение)
 
-* Project №4. Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей
-> (SQL, Python, Pandas, Matplotlib, SciPy, проверка статистических гипотез)
-
-* Project №5. Выбор региона для разработки новых нефтяных месторождений
+* Project №8. [Выбор региона для разработки новых нефтяных месторождений](https://github.com/IAMelnik/Y.P/blob/main/Project%20%238.ipynb)
 > (Pandas, sklearn, math, numpy, Seaborn, Matplotlib, SciPy, Bootstrap, машинное обучение)
 
-* Project №7. [Подготовка прототипа модели для металлообрабатывающего предприятия](https://github.com/IAMelnik/Y.P/blob/main/Prefabricated%20project%20%23%202.ipynb)
+* Project №9. [Подготовка прототипа модели для металлообрабатывающего предприятия](https://github.com/IAMelnik/Y.P/blob/main/Project%20%239.ipynb)
 > (Pandas, sklearn, numpy, Seaborn, Matplotlib, math, машинное обучение)
+
+* Project №4. Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей
+> (SQL, Python, Pandas, Matplotlib, SciPy, проверка статистических гипотез)
 
 * Project №8. Разработка алгоритма для защиты данных
 > (Pandas, Seaborn, numpy, sklearn, машинное обучение)
