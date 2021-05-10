@@ -30,11 +30,11 @@
 * Project №9. [Подготовка прототипа модели для металлообрабатывающего предприятия](https://github.com/IAMelnik/Y.P/blob/main/Project%20%239.ipynb)
 > (Pandas, sklearn, numpy, Seaborn, Matplotlib, math, машинное обучение)
 
+* Project №10. [Разработка алгоритма для защиты данных](https://github.com/IAMelnik/Y.P/blob/main/Project%20%2310.ipynb)
+> (Pandas, Seaborn, numpy, sklearn, машинное обучение)
+
 * Project №4. Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей
 > (SQL, Python, Pandas, Matplotlib, SciPy, проверка статистических гипотез)
-
-* Project №8. Разработка алгоритма для защиты данных
-> (Pandas, Seaborn, numpy, sklearn, машинное обучение)
 
 * Project №10. Предсказание цены автомобиля
 > (Pandas, sklearn, numpy, LightGBM, машинное обучение, CatBoost)
