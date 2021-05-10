@@ -12,7 +12,10 @@
 * Project №3. [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/IAMelnik/Y.P/blob/main/Project%20%233.ipynb)
 > (Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных, math)
 
-* Project №2. [Изучение закономерностей, определяющих успешность игр](https://github.com/IAMelnik/Y.P/blob/main/Prefabricated%20project%20%23%201.ipynb)
+* Project №4. [Определение выгодного тарифа для телеком компании](https://github.com/IAMelnik/Y.P/blob/main/Project%20%234.ipynb)
+> (Python, Pandas, Matplotlib, numpy, SciPy, описательная статистика, проверка статистических гипотез, math, Seaborn, sklearn, машинное обучение)
+
+* Project №5. [Изучение закономерностей, определяющих успешность игр](https://github.com/IAMelnik/Y.P/blob/main/Prefabricated%20project%20%23%201.ipynb)
 > (Python, Pandas, numpy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез, Seaborn, SciPy)
 
 * Project №4. Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей
@@ -30,9 +33,6 @@
 * Project №8. Разработка алгоритма для защиты данных
 > (Pandas, Seaborn, numpy, sklearn, машинное обучение)
 
-* Project №9. Исследование предпочтений пользователей: музыка больших городов
-> (Pandas)
-
 * Project №10. Предсказание цены автомобиля
 > (Pandas, sklearn, numpy, LightGBM, машинное обучение, CatBoost)
 
@@ -44,9 +44,6 @@
 
 * Project №13. Определение возраста по фото
 > (Pandas, keras, Matplotlib, Seaborn, компьютерное зрение, машинное обучение)
-
-* Project №14. Определение выгодного тарифа для телеком компании
-> (Python, Pandas, Matplotlib, numpy, SciPy, описательная статистика, проверка статистических гипотез, math, Seaborn, sklearn, машинное обучение)
 
 * Final Project. Модель предсказания температуры на металлургическом предприятии
 > (Python, Pandas, sklearn, numpy, Matplotlib, math, машинное обучение, CatBoost, LightGBM)
