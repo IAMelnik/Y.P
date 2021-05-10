@@ -48,5 +48,5 @@
 * Project №15. [Определение возраста по фото](https://github.com/IAMelnik/Y.P/blob/main/Project%20%2315.ipynb)
 > (Pandas, keras, Matplotlib, Seaborn, компьютерное зрение, машинное обучение)
 
-* Final Project. [Модель предсказания температуры на металлургическом предприятии](https://github.com/IAMelnik/Y.P/blob/main/Project_final.ipynb)
+* Final_Project. [Модель предсказания температуры на металлургическом предприятии](https://github.com/IAMelnik/Y.P/blob/main/Project_final.ipynb)
 > (Python, Pandas, sklearn, numpy, Matplotlib, math, машинное обучение, CatBoost, LightGBM)
