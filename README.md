@@ -36,17 +36,17 @@
 * Project №11. [Предсказание цены автомобиля](https://github.com/IAMelnik/Y.P/blob/main/Project%20%2311.ipynb)
 > (Pandas, sklearn, numpy, LightGBM, машинное обучение, CatBoost)
 
-* Project №4. Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей
-> (SQL, Python, Pandas, Matplotlib, SciPy, проверка статистических гипотез)
-
-* Project №11. Прогнозирование заказов такси
+* Project №12. [Прогнозирование заказов такси](https://github.com/IAMelnik/Y.P/blob/main/Project%20%2312.ipynb)
 > (Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, машинное обучение)
 
-* Project №12. Классификация комментариев
+* Project №13. [Классификация комментариев](https://github.com/IAMelnik/Y.P/blob/main/Project%20%2313.ipynb)
 > (Pandas, sklearn, numpy, NLTK, LightGBM, CatBoost, машинное обучение)
 
-* Project №13. Определение возраста по фото
+* Project №14. [Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей](https://github.com/IAMelnik/Y.P/blob/main/Project%20%2314.ipynb)
+> (SQL, Python, Pandas, Matplotlib, SciPy, проверка статистических гипотез)
+
+* Project №15. [Определение возраста по фото](https://github.com/IAMelnik/Y.P/blob/main/Project%20%2315.ipynb)
 > (Pandas, keras, Matplotlib, Seaborn, компьютерное зрение, машинное обучение)
 
-* Final Project. Модель предсказания температуры на металлургическом предприятии
+* Final Project. [Модель предсказания температуры на металлургическом предприятии](https://github.com/IAMelnik/Y.P/blob/main/Project_final.ipynb)
 > (Python, Pandas, sklearn, numpy, Matplotlib, math, машинное обучение, CatBoost, LightGBM)
